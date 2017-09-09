@@ -20,3 +20,16 @@ body.modal-2 {
 }
 
 /*----------------------------------------------------------------------*/
+
+.modal-3 {
+	border: 2px solid #f1f1f1;
+	border-radius: 4px;
+	background-image: linear-gradient(-180deg, #ff5d70 0%, #ffb975 100%);
+	box-shadow: 0 20px 40px 0 rgba(255,182,112,.70);
+}
+
+body.modal-3 {
+	background: #2C353C;
+}
+
+/*----------------------------------------------------------------------*/

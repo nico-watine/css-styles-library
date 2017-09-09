@@ -7,6 +7,26 @@
 	box-shadow: 0 8px 8px 0 rgba(0,0,0,.12), 0 13px 80px 0 rgba(0,0,0,.24);
 }
 
+.modal-1 header {
+	font-family: 'Open Sans';
+
+	color: #fff;
+	background: #360c7e;
+}
+
+.modal-1 h1 {
+	font-size: 24px;
+}
+
+.modal-1 p {
+	font-size: 16px;
+	line-height: 1.5;
+}
+
+body.modal-1 {
+	background: #ededef;
+}
+
 /*----------------------------------------------------------------------*/
 
 .modal-2 {
